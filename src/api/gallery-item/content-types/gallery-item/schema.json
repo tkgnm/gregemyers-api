@@ -12,10 +12,6 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "uuid": {
-      "type": "uid",
-      "required": true
-    },
     "coverImage": {
       "type": "media",
       "multiple": false,
