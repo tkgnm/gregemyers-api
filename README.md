@@ -14,4 +14,4 @@ yarn develop
 
 ## Deploy
 
-This headless CMS is deployed on [fly.io](https://fly.io/)https://fly.io/, which comes with a postgres database to store all data on. The images are uploaded via the apps Media Library, which are then stored on S3.
+This headless CMS is deployed on [fly.io](https://fly.io/), which comes with a postgres database to store all data on. The images are uploaded via the apps Media Library, which are then stored on S3.
