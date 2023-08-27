@@ -1,6 +1,6 @@
 # gregemyers-api
 
-This repo holds the headless CMS which powers  [greg-e-myers](https://github.com/tkgnm/greg-e-myers). Admins can log in [here](https://gregemyers-api-fly.fly.dev/admin) and add new posts/pages etc. 
+This repo holds the headless CMS, a Strapi application, which powers  [greg-e-myers](https://github.com/tkgnm/greg-e-myers). Admins can log in [here](https://gregemyers-api-fly.fly.dev/admin) and add new posts/pages etc. 
 
 ### Develop
 
